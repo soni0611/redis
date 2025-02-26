@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/soni0611/redis#readme",
   "dependencies": {
+    "axios": "^1.8.1",
+    "express": "^4.21.2",
     "ioredis": "^5.5.0"
   }
 }
